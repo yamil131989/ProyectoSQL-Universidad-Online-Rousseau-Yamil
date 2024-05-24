@@ -1,0 +1,9 @@
+idProfesor,nombre,apellido,email,dni,Especialidad,createDate,modifiedDate
+p0001,Agustina,Valles,agustinavalles@unioffsec.com.ar,20295841,CISSP,2024-05-21,2024-05-21
+p0002,Maria Soledad,Silvani,mssilvani@unioffsec.com.ar,28096813,Forencia Digital IR,2024-05-21,2024-05-21
+p0003,Ruben,Alejandro,ralejandro@unioffsec.com.ar,23215815,Blue Team,2024-05-21,2024-05-21
+p0004,Carlos,Gonzalez,cgonzalez@unioffsec.com.ar,17208656,Red Team,2024-05-21,2024-05-21
+p0005,Jose Luis,Lincoln,jlplincoln@unioffsec.com.ar,16624733,Cyberdefense,2024-05-21,2024-05-21
+p0006,Analia,Capdevila,acapdevila@unioffsec.com.ar,20295841,Threat Hunting,2024-05-21,2024-05-21
+p0007,Leonardo,Marino,lmarino@unioffsec.com.ar,26222188,Cloud Security,2024-05-21,2024-05-21
+p0008,Oscar,Scarpelli,oscarpelli@unioffsec.com.ar,12481948,Exploit Developer,2024-05-21,2024-05-21

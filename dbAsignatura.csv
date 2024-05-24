@@ -1,0 +1,84 @@
+idAsignatura,descripcion,idCarrera
+5001,Forencia en Windows,5
+5002,Threat hunting y IR avanzado,5
+5003,Respuesta de incidentes y Treat hunting en Linux ,5
+5004,Respuesta de incidentes y Treat hunting empresarial,5
+5005,Ransomware y cyber extorision,5
+5006,Forencia en Redes,5
+5007,Respuesta de incidentes y Forencia Cloud,5
+5008,Inteligencia de amenazas,5
+5009,Analisis de malware,5
+5010,Analisis de malware II Analisis de codigo,5
+5011,Forencia IOS y MAC,5
+5012,Forencia Smartphones,5
+5013,Forencia Avanzada,5
+6001,Pentesting,6
+6002,Web apps,6
+6003,Pentesting avanzado,6
+6004,Pentesting cloud,6
+6005,Ingenieria Social,6
+6006,IOS y Android,6
+6007,Metasploit,6
+6008,IOT,6
+6009,Seguridad Wireless,6
+6010,Emulacion de adversarios,6
+6011,Desarrollo de herramientas windows,6
+6012,Automatizacion de seguridad,6
+6013,Defensas Kill Chain,6
+7001,Monitoreo y deteccion,7
+7002,Deteccion de intrusiones,7
+7003,Blue team fundamentos,7
+7004,Intel Open source,7
+7005,Fundamentos avanzados de la seguridad,7
+7006,Powershell,7
+7007,SIEM analisis tecnico,7
+7008,Python,7
+7009,Powershell II automatizacion,7
+7010,Controles CIS,7
+7011,Python II avanzado,7
+7012,Intel Open source II Avanzado,7
+7013,Arquitectura e ingenieria en seguridad,7
+8001,Asesoramiento de riesgos,8
+8002,Gerenciamiento de Riesgos humanos,8
+8003,Gerenciamiento de Liderazgo,8
+8004,Controles CIS,8
+3001,Javascript para Backend,3
+3002,SQL,3
+3003,Programacion backend Testing,3
+3004,Programacion backend Desarrollo Avanzado,3
+3005,Programacion backend Disenio y Arquitectura,3
+4001,Javascript para Frontend,4
+4002,Fundamentos Web,4
+4003,CSS,4
+4004,HTML,4
+4005,React,4
+1001,Introduccion a redes inalambricas,1
+1002,Introduccion a Redes,1
+1003,CCNA Switching y routing ,1
+1004,CCNA Redes empresariales y seguridad,1
+2001,Introduccion a linux,2
+2002,Introduccion a ciberseguridad,2
+2003,Introduccion a Redes,2
+2004,Criptografia y blockchain,2
+2005,Seguridad en Linux,2
+2006,Seguridad en Windows,2
+2007,Seguridad en Redes,2
+2008,Seguridad Web,2
+2009,Seguridad Mobile,2
+2010,Informatica Forence,2
+2011,ETH,2
+2012,Thread Hunting,2
+2013,Desarrollo Seguro,2
+9001,Burp Suite,9
+9002,Elevacion Privilegios Linux,9
+9003,Elevacion Privilegios Windows,9
+9004,Seguridad en AD ,9
+9005,Detectar comunicaciones encriptadas,9
+9006,Detectar tecnicas evasivas,9
+9007,Herramientas de explotacion,9
+9008,Ataques y Pivoting a endpoints,9
+9009,Incident Response ,9
+9010,Forencia de malware,9
+9011,Ataques de passwords,9
+9012,Ataques Post explotacion,9
+9013,Reconocimiento ,9

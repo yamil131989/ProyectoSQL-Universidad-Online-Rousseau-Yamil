@@ -1,0 +1,28 @@
+idEstudiante,nombre,apellido,email,dni,telefono,pais,ciudad,direccion,cp,idtarjeta,idmatricula
+e0001,Jennie,Nichols,jennie.nichols@gmail.com,26839327,1553302385,Estados Unidos,CABA,Billingurs 1234,63104,tar01,mat100001
+e0002,Maria Fernanda,Posada,mfernposada@yahoo.com,28995410,1143244700,Argentina,CABA,Florida 460,1425,tar02,mat100002
+e0003,Luna ,Lopez,lunalopez@vpn.com.ar,33399059,1145544486,Argentina,CABA,Av corrientes 6735,1427,tar03,mat100003
+e0004,Jose,Carrasquillo,carrasquillo.jose@gmail.com,31481948,3424559339,Argentina,Santa fe,Sarmiento 3927,3000,tar04,mat100004
+e0005,Juan Pablo,Arenas,juanarenas@gmail.com,25781579,2994477447,Argentina,Neuquen,Juan Julian Lastra 176,8300,tar05,mat100005
+e0006,Mariangel,Henriquez,henriquezma@hotmail.com,29171181,03514731711,Argentina,Cordoba,Nicolas Avellaneda 1560,5001,tar06,mat100006
+e0007,Santino,Tercero,santino3@gmail.com,23456856,03514711520,Argentina,Cordoba,Av Leandro Alem,5012,tar07,mat100007
+e0008,Fernando,Velasco,fernandovelasco77@gmail.com,15965741,01146391711,Argentina,CABA,Sanabria 1548,1407,tar08,mat100008
+e0009,Anthony,Torres,torresanthony@hotmail.com,28474626,02614297300,Argentina,Mendoza,Patricias Mend 1183,5500,tar09,mat100009
+e0010,Natalia,Porras,porrasnatalia@outlook.com,13983511,01147733636,Argentina,CABA,Av Costanera Obligado,1426,tar10,mat100010
+e0011,Miranda,Bernal,mirandabernal@gmail.com,36507604,01141210700,Argentina,CABA,Pi y Margall 750,1155,tar11,mat100011
+e0012,Laura,Alanis,alanislaura@protonmail.com,13998719,02615784761,Argentina,Mendoza,San Martin 497,5500,tar12,mat100012
+e0013,Hugo ,Pizarro,pizarrohugo@gmail.com,21489834,03514680817,Argentina,Cordoba,Rogelio Martinez,5000,tar13,mat100013
+e0014,Allison,Veliz,velizallison@protonmail.com,28980949,03517112202,Argentina,CABA,Belgrano 1800,1093,tar14,mat100014
+e0015,Mateo,Lopez,lopezmateo@empresa.com.ar,36472064,01145881194,Argentina,CABA,Luis Viale 501,1416,tar15,mat100015
+e0016,Juana,Montenegro,jmontenegro@gmail.com,31413634,03514270045,Argentina,Cordoba,Tucuman 41,5000,tar16,mat100016
+e0017,Adriana,Corrales,corralesa@gmail.com,34586144,0114305188,Argentina,CABA,Bauness 1274,1427,tar17,mat100017
+e0018,Juan Diego,Pacheco,pachecojuan@hotmail.com,31437499,03512357054,Argentina,Cordoba,Lavalleja 1096,5000,tar18,mat100018
+e0019,Valentina,Melgar,melgarvalentina@outlook.com,34564603,01147805182,Argentina,CABA,Mendoza 3043,1428,tar19,mat100019
+e0020,Ornela,Santiago,ornelasantiago@empresa.com,31536465,02644224391,Argentina,San Juan,Entre Rios 180,5400,tar20,mat100020
+e0021,Violeta,Pichardo,pichardovioleta@outlook.com,34590662,01145118851,Argentina,CABA,Ramos Mejia 1430,1104,tar21,mat100021
+e0022,Alexa,Arroyo,alexaarroyo@gmail.com,34623761,01146317883,Argentina,CABA,Yerbal 1609,1406,tar22,mat100022
+e0023,Silvana,Zepeda,zepedas@empresa.com,24588361,01151998391,Argentina,CABA,Laprida 1910,1425,tar23,mat100023
+e0024,Luis,Solis,solisluis71@gmail.com,18553534,02644341111,Argentina,San Juan,Cabot Oeste 1293,5400,tar24,mat100024
+e0025,Vicente,Gallegos,vicente_gallego@gmail.com,14582395,01147716178,Argentina,CABA,Humboldt 2000,1414,tar25,mat100025
+e0026,Andres,Carrasco,mendozaandres@outlook.com,32896174,02614235339,Argentina,Mendoza,Av Zapata 407,5500,tar26,mat100026
+e0027,Magdalena,Salgado,salgado_magda@empresa.com,16605875,03424692459,Argentina,Santa fe,Aristobulo del valle 6799,1846,tar27,mat100027
